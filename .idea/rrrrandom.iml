@@ -1,0 +1,6 @@
+fron=m random import randint
+list = [0,9]
+random.shuffle(list)
+print(list)
+list.pop()
+print(list)
